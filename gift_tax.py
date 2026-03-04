@@ -1,4 +1,4 @@
-Gift Tax Calculator
+# Gift Tax Calculator
 # Calculates gift tax based on Finnish tax brackets
 # Author: Ricky W.
 
